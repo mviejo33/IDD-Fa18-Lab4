@@ -12,6 +12,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part B. Actuating Servo motors
 
+The power wire is typically red. The ground wire is typically black or brown. The signal pin is typically yellow, orange or white.
+
 ### Part 1. Connect the Servo to your breadboard
 
 **a. Which color wires correspond to power, ground and signal?**
@@ -20,7 +22,12 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+9
+
 **b. What aspects of the Servo code control angle or speed?**
+
+The speed is controlled by the delay and could also be controlled by modifying how much we increase/decrease the pos variable.
+The angle is controlled by the variable pos, which is the input for myservo.write(pos)
 
 ## Part C. Integrating input and output
 
