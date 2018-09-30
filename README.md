@@ -1,22 +1,21 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
-
-## In this Report
-
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
+*A lab report by Manuel Viejo*
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+**Link to a video of your vibration motor**
+
+https://www.youtube.com/watch?v=OgRSd4HcZCU
+
 
 ## Part B. Actuating Servo motors
-
-The power wire is typically red. The ground wire is typically black or brown. The signal pin is typically yellow, orange or white.
 
 ### Part 1. Connect the Servo to your breadboard
 
 **a. Which color wires correspond to power, ground and signal?**
+
+The power wire is typically red. The ground wire is typically black or brown. The signal pin is typically yellow, orange or white.
 
 ### Part 2. Connect the Servo to your Arduino
 
@@ -33,11 +32,19 @@ The angle is controlled by the variable pos, which is the input for myservo.writ
 
 **Include a photo/movie of your raw circuit in action.**
 
+
+![Circuit photo](https://github.com/mviejo33/IDD-Fa18-Lab4/blob/master/IMG_20180930_182947.jpg)
+
+
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
+I did one video (at the end of the lab) to cover both D and E.
+
 ## Part E. Make it your own
 
-**a. Make a video of your final design.**
- 
+**Paper signal dancing to Queen**
+
+https://www.youtube.com/watch?v=BfCFQ4X2KIM
